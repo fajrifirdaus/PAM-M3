@@ -10,8 +10,8 @@ Aplikasi ini mengedepankan paradigma **UI Deklaratif** dengan desain **Professio
 *(Tampilan antarmuka "Corporate Blue & Slate" pada perangkat Android)*
 
 <div align="center">
-  <img width="500" height="1600" alt="Image" src="https://github.com/user-attachments/assets/76688281-36fb-469e-95d5-e4617c35e576" />
-  <img width="500" height="1600" alt="Image" src="https://github.com/user-attachments/assets/cbb6b012-efcc-4add-b358-83cadb2e36b4" />
+  <img width="400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/76688281-36fb-469e-95d5-e4617c35e576" />
+  <img width="400" height="1600" alt="Image" src="https://github.com/user-attachments/assets/cbb6b012-efcc-4add-b358-83cadb2e36b4" />
 </div>
 
 ---
